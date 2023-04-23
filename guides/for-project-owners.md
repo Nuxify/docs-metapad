@@ -22,6 +22,18 @@ Fill-up the required forms and submit transaction. You should have some Matic fo
 
 ![Mission Application page](/static/guides/project-owner-1.png)
 
+!!!
+IMPORTANT! There should be a section in your website (we recommend in the footer section) where the contract addresses should be visible.
+
+The number and the exact contract addresses from the application form should match the declared contract addresses in the website. This will be captured by the Web Archive Wayback Machine.
+
+Not doing so will automatically reject your application.
+!!!
+
+![Sample project website displaying the contract addresses in footer](/static/guides/project-owner-7.png)
+
+You can visit this demo website at https://webapp-metapad-client-demo.pages.dev/.
+
 ![Check Mission Application Status page](/static/guides/project-owner-2.png)
 
 !!!
@@ -54,4 +66,33 @@ Project owner can apply for KYC Level 2. Fees varies from contract to contract s
 
 ### Step 4: Contract Audits
 
+Project owner can apply for KYC Level 3. Fees varies from contract to contract so make sure you have enough Matic funds in your wallet.
+
+When uploading contract audits from other auditing company, be sure to upload the generated report with reference as the contract reviewer will double check it.
+
+![Apply for KYC Level 3](/static/guides/project-owner-8.png)
+
+![Approved for KYC Level 3](/static/guides/project-owner-9.png)
+
+!!!
+Project owner can also request an audit from the Metapad team. Hit us at hello@nuxify.tech
+!!!
+
 ### Step 5: Crews
+
+Project owner can apply for KYC Level 4. It is a requirement to attach a verified LinkedIn account for each user.
+
+For the team video, it is a requirement that the video camera feed will be on, and the listed crews should be also there in the video. Participants in the video meeting will be speaking the following:
+
+- Name
+- Position/Role on the project
+
+![Apply for KYC Level 4](/static/guides/project-owner-10.png)
+
+![Approved for KYC Level 4](/static/guides/project-owner-11.png)
+
+### Step 6: Logs
+
+Project owners can view all token logs under the Logs tab.
+
+![Logs section](/static/guides/project-owner-12.png)
