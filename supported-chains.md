@@ -1,6 +1,7 @@
 ---
 icon: package
 label: Supported Chains
+tags: [chain]
 ---
 
 # Supported Chains

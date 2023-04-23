@@ -1,6 +1,7 @@
 ---
 icon: trophy
 label: KYC Level System
+tags: [kyc, level]
 ---
 
 # KYC Level System
