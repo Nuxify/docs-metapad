@@ -1,0 +1,20 @@
+input: .
+output: .retype
+url: https://metapad.dev
+
+branding:
+  title: Metapad Documentation
+  label: Docs
+
+meta:
+  title: " - Securing platforms in the decentralized web"
+
+editor:
+  enabled: false
+
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy; Copyright {{ year }} - [Metapad from Nuxify](https://metapad.dev/). All rights reserved."
