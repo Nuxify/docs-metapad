@@ -47,7 +47,13 @@ If you want to test things and mess around with your project, visit [Testnet](ht
 
 ## Query API
 
-You can directly query the Metapad smart contract or use Metapad's public API as seen here: https://api.metapad.dev/docs/
+You can directly query the Metapad smart contract or use Metapad's public API as seen here:
+
++++ Production
+https://api.metapad.dev/docs/
++++ Testnet
+https://testnet-api.metapad.dev/docs/
++++
 
 ---
 
