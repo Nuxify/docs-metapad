@@ -11,7 +11,7 @@ To get started, you can try this guide in Metapad [Testnet](https://testnet.meta
 Below are the ordered steps starting from application to upgrading your KYC levels.
 
 !!!
-Interaction with Metapad are on-chain operations. Hence, you need some Matic to pay the gas fees (very cheap) and the review fee.
+Interaction with Metapad are via on-chain transactions. Hence, you need some Matic to pay the gas fees (very cheap) and the review fee.
 !!!
 
 ### Step 1: Mission Application
