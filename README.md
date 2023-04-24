@@ -5,7 +5,7 @@ icon: home
 
 # Welcome to Metapad
 
-[Metapad](https://metapad.dev) is a decentralized smart contracts KYC and review platform. Metapad wanted to address the current problems of web3 such as smart contracts exploits and being used as instrument for scams, challenge in smart contracts KYC to its creators, and expensive smart contracts reviews and audits especially for small to medium projects.
+[Metapad](https://metapad.dev) is a decentralized smart contracts KYC and review platform. Metapad wants to address the current problems of web3 such as smart contracts exploits and being used as instrument for scams, challenge in smart contracts KYC to its creators, and expensive smart contracts reviews and audits especially for small to medium projects.
 
 With Metapad, web3 project owners can apply and mint their Consensus-based Soulbound NFT that represents their project following Metapad's [KYC Leveling System](/kyc-level-system). General web3 users can now openly check, review and understand the projects they are interacting with especially in the smart contracts domain.
 
