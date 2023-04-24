@@ -33,7 +33,7 @@ KYC Level 1 shows the following information:
 
 ![Token information shown when token is KYC Level 1 approved](/static/kyc-level-system/kyc-level-1.png)
 
-!!!
+!!! danger
 Project owner can still edit KYC Level 1 details **except** the contract addresses section.
 
 For upgradeable contracts or trying to add new contract to the project, project owner can enlist it as a new token instead.
@@ -45,7 +45,13 @@ Updating KYC Level 1 details is also subject for consensus-based approval. The T
 
 Contract notes contains the contracts rules written now in user-friendly language (layman's term). Contract notes fees varies from contract to contract scope.
 
-You can find the open-sourced list here listed by token: https://github.com/Nuxify/metapad-contract-notes
+You can find the open-sourced list here listed by token:
+
++++ Production
+https://github.com/Nuxify/metapad-contract-notes
++++ Testnet
+https://github.com/Nuxify/metapad-contract-notes/tree/testnet
++++
 
 KYC Level 2 shows the following information:
 

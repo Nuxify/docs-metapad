@@ -23,7 +23,7 @@ Fill-up the required forms and submit transaction. You should have some Matic fo
 ![Mission Application page](/static/guides/project-owner-1.png)
 
 !!! danger
-IMPORTANT! There should be a section in your website (we recommend in the footer section) where the contract addresses should be visible.
+There should be a section in your website (we recommend in the footer section) where the contract addresses should be visible.
 
 The number and the exact contract addresses from the application form should match the declared contract addresses in the website. This will be captured by the Web Archive Wayback Machine.
 
