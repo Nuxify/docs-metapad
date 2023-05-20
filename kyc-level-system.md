@@ -4,7 +4,7 @@ label: KYC Level System
 tags: [kyc, level]
 ---
 
-# KYC Level System
+# KYC (Know-Your-Contract) Level System
 
 Metapad's KYC Level System follows **consensus-based approvals** between the applicant and the KYC reviewer role. The leveling system is consists of 4 levels/tiers. These levels are applied on an in order basis.
 

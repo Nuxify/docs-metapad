@@ -34,6 +34,14 @@ Not doing so will automatically reject your application.
 
 You can visit this demo website at https://webapp-metapad-client-demo.pages.dev/.
 
+!!! danger
+The contracts should also be verified in blockchain explorers (Etherscan, Blockscout, or the likes).
+
+If not, the contracts repository should be publicized so we can check and calculate the bytecodes to a specific git commit.
+
+The smart contract should be publicized for transparency. Not doing so will automatically reject your application.
+!!!
+
 ![Check Mission Application Status page](/static/guides/project-owner-2.png)
 
 !!!
