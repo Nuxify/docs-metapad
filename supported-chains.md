@@ -12,5 +12,6 @@ Metapad currently supports the following chains:
 - BNB Chain
 - Polygon
 - Cronos
+- Hedera
 
 If your project's chain is not supported, hit us at hello@nuxify.tech for assessment and assistance.
