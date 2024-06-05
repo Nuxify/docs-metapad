@@ -10,7 +10,7 @@ Metapad currently supports the following chains:
 
 - Ethereum
 - BNB Chain
-- Polygon
+- Polygon PoS
 - Cronos
 - Hedera
 
