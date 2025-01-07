@@ -13,5 +13,6 @@ Metapad currently supports the following chains:
 - Polygon PoS
 - Cronos
 - Hedera
+- Base (recently added)
 
 If your project's chain is not supported, hit us at hello@nuxify.tech for assessment and assistance.
